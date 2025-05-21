@@ -32,6 +32,7 @@ We deliver with clarity.
 ### Our Philosophy
 
 We believe the value of a product comes from its design intent.
+
 The strength of a system lies not only in its performance, but in the philosophy behind it.
 
 That’s why we engineer thought — because only thoughtful design delivers meaningful intelligence.
