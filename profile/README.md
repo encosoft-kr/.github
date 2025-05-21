@@ -1,12 +1,10 @@
 # About EncoSoft
 
-**Engineer thought. Deliver intelligence.**
-
 EncoSoft is not just a software company — it's a platform where structured thinking becomes technology, and ideas transform into tangible intelligence.
 
 Founded and operated in the Republic of Korea, EncoSoft is driven by a single principle:
 
-> *"We don’t just develop software — we engineer thought and deliver intelligence."*
+> *"We don’t just develop software — We engineer thought and deliver intelligence."*
 
 We design with purpose.
 We build with precision.
@@ -72,6 +70,10 @@ Review our [brand identity guide](../../../../pages/docs/brand-identity.md) for 
 
 ### About This Organization
 
-See our full [company profile](../../../../pages/docs/about.md) for background, brand evolution, and timeline milestones.
+See our full company profile for background, brand evolution, and timeline milestones.
+
+Our internal standards, policies, and documentation philosophy are maintained in our [origin repository](../../../origin/) — serving as the canonical reference for how we work, write, and think.
+
+This repository defines the operating DNA behind EncoSoft.
 
 ---
