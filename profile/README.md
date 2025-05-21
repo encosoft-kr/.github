@@ -6,8 +6,8 @@ Founded and operated in the Republic of Korea, EncoSoft is driven by a single pr
 
 > *"We don’t just develop software — We engineer thought and deliver intelligence."*
 
-We design with purpose.
-We build with precision.
+We design with purpose.   
+We build with precision.   
 We deliver with clarity.
 
 ---
@@ -37,19 +37,19 @@ More details on how we operate can be found in our [team handbook](../../../../p
 
 ### Our Philosophy
 
-We believe the value of a product comes from its design intent.
+We believe the value of a product comes from its design intent.   
 The strength of a system lies not only in its performance, but in the philosophy behind it.
 
-That’s why we engineer thought — because only thoughtful design delivers meaningful intelligence.
+That’s why we engineer thought — because only thoughtful design delivers meaningful intelligence.   
 This philosophy is further explored in our [slogan document](../../../../pages/docs/slogan.md).
 
 ---
 
 ### Contact
 
-- 📩 [contact@encosoft.co.kr](mailto:contact@encosoft.co.kr)
-- 🌐 [https://www.encosoft.co.kr](https://www.encosoft.co.kr)
-- 📍 Republic of Korea
+📩 [contact@encosoft.co.kr](mailto:contact@encosoft.co.kr)   
+🌐 [https://www.encosoft.co.kr](https://www.encosoft.co.kr)   
+📍 Republic of Korea
 
 Additional contact structure and email purpose are detailed in our [email policy](../../../../pages/docs/mail-policy.md).
 
@@ -75,5 +75,7 @@ See our full company profile for background, brand evolution, and timeline miles
 Our internal standards, policies, and documentation philosophy are maintained in our [origin repository](https://github.com/encosoft-kr/origin/) — serving as the canonical reference for how we work, write, and think.
 
 This repository defines the operating DNA behind EncoSoft.
+
+---
 
 _* Last updated: 2025-05-21_
