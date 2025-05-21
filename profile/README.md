@@ -72,7 +72,7 @@ Review our [brand identity guide](../../../../pages/docs/brand-identity.md) for 
 
 See our full company profile for background, brand evolution, and timeline milestones.
 
-Our internal standards, policies, and documentation philosophy are maintained in our [origin repository](../../../origin/) — serving as the canonical reference for how we work, write, and think.
+Our internal standards, policies, and documentation philosophy are maintained in our [origin repository](https://github.com/encosoft-kr/origin/) — serving as the canonical reference for how we work, write, and think.
 
 This repository defines the operating DNA behind EncoSoft.
 
