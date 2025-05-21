@@ -22,6 +22,10 @@ We deliver with clarity.
 * Intelligent automation and productivity platforms
 * Conceptual engineering and software integration
 
+Our internal [framework guide](./docs/framework-guide/README.md) outlines how we structure development, from modular principles to platform orchestration.
+
+---
+
 ### What We Stand For
 
 * **Structured Thinking**: Every solution begins with a precise understanding of the problem.
@@ -29,20 +33,45 @@ We deliver with clarity.
 * **Sovereignty of Execution**: We value independence, transparency, and uncompromised technical ownership.
 * **Quiet Engineering**: No noise. Just real work, silently building systems that work.
 
+More details on how we operate can be found in our [team handbook](./docs/handbook/README.md).
+
+---
+
 ### Our Philosophy
 
 We believe the value of a product comes from its design intent.
-
 The strength of a system lies not only in its performance, but in the philosophy behind it.
 
 That’s why we engineer thought — because only thoughtful design delivers meaningful intelligence.
+This philosophy is further explored in our [slogan document](./docs/slogan.md).
 
 ---
 
 ### Contact
 
-📩 [contact@encosoft.co.kr](mailto:contact@encosoft.co.kr)
+- 📩 [contact@encosoft.co.kr](mailto:contact@encosoft.co.kr)
+- 🌐 [https://www.encosoft.co.kr](https://www.encosoft.co.kr)
+- 📍 Republic of Korea
 
-🌐 [https://www.encosoft.co.kr](https://www.encosoft.co.kr)
+Additional contact structure and email purpose are detailed in our [email policy](./docs/mail-policy.md).
 
-📍 Republic of Korea
+---
+
+### Brand Identity
+
+Our brand is more than a name — it's a visual and linguistic system:
+
+* Name: **EncoSoft** (CamelCase only)
+* Meaning: **Engineering + Control + Software**
+* Colors: Engineering Blue, Signal Orange
+* Typography: Clear sans-serif
+
+Review our [brand identity guide](./docs/brand-identity.md) for design and usage standards.
+
+---
+
+### About This Organization
+
+See our full [company profile](./docs/about.md) for background, brand evolution, and timeline milestones.
+
+---
