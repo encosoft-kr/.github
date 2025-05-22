@@ -41,7 +41,7 @@ We believe the value of a product comes from its design intent.
 The strength of a system lies not only in its performance, but in the philosophy behind it.
 
 That’s why we engineer thought — because only thoughtful design delivers meaningful intelligence.   
-This philosophy is further explored in our [slogan document](../../../../pages/docs/slogan.md).
+This philosophy is further explored in our [slogan document](https://github.com/encosoft-kr/origin/wiki/Slogan-Document).
 
 ---
 
