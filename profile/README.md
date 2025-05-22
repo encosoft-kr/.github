@@ -20,7 +20,7 @@ We deliver with clarity.
 * Intelligent automation and productivity platforms
 * Conceptual engineering and software integration
 
-Our internal [framework guide](../../../../pages/docs/framework-guide/README.md) outlines how we structure development, from modular principles to platform orchestration.
+Our internal [framework guide(TBD)]() outlines how we structure development, from modular principles to platform orchestration.
 
 ---
 
@@ -31,7 +31,7 @@ Our internal [framework guide](../../../../pages/docs/framework-guide/README.md)
 * **Sovereignty of Execution**: We value independence, transparency, and uncompromised technical ownership.
 * **Quiet Engineering**: No noise. Just real work, silently building systems that work.
 
-More details on how we operate can be found in our [team handbook](../../../../pages/docs/handbook/README.md).
+More details on how we operate can be found in our [team handbook(TBD)]().
 
 ---
 
@@ -51,7 +51,7 @@ This philosophy is further explored in our [slogan document](https://github.com/
 🌐 [https://www.encosoft.co.kr](https://www.encosoft.co.kr)   
 📍 Republic of Korea
 
-Additional contact structure and email purpose are detailed in our [email policy](../../../../pages/docs/mail-policy.md).
+Additional contact structure and email purpose are detailed in our [email policy](https://github.com/encosoft-kr/origin/wiki/Email-Policy).
 
 ---
 
@@ -64,7 +64,7 @@ Our brand is more than a name — it's a visual and linguistic system:
 * Colors: Engineering Blue, Signal Orange
 * Typography: Clear sans-serif
 
-Review our [brand identity guide](../../../../pages/docs/brand-identity.md) for design and usage standards.
+Review our [brand identity guide](https://github.com/encosoft-kr/origin/wiki/Brand-Identity-Guide) for design and usage standards.
 
 ---
 
