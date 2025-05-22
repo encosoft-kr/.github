@@ -60,7 +60,7 @@ Additional contact structure and email purpose are detailed in our [email policy
 Our brand is more than a name — it's a visual and linguistic system:
 
 * Name: **EncoSoft** (CamelCase only)
-* Meaning: **Engineering + Control + Software**
+* Meaning: **Engineering + Control/Consistency + Software**
 * Colors: Engineering Blue, Signal Orange
 * Typography: Clear sans-serif
 
