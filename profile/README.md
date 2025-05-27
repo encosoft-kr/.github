@@ -76,7 +76,13 @@ Our internal standards, policies, and documentation philosophy are maintained in
 
 This repository defines the operating DNA behind EncoSoft.
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=encosoft-kr&style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/encosoft-kr/.github)
+![Status](https://img.shields.io/badge/Status-Prototype-orange)
+![Platform](https://img.shields.io/badge/Platform-Mac-blue)
+![Platform](https://img.shields.io/badge/Platform-iOS-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)   
+![License](https://img.shields.io/badge/License-MIT-green)
+![Last commit](https://img.shields.io/github/last-commit/encosoft-kr/.github)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=encosoft-kr&style=flat-square)
 
 ---
 
