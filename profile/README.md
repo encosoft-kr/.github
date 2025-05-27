@@ -9,7 +9,7 @@
 
 EncoSoft is not just a software company — it's a platform where structured thinking becomes technology, and ideas transform into tangible intelligence.
 
-Founded and operated in the Republic of Korea, EncoSoft is driven by a single principle:
+Founded and operated in the **Republic of Korea**, EncoSoft is driven by a single principle:
 
 > *"We don’t just develop software — We engineer thought and deliver intelligence."*
 
