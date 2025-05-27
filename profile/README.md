@@ -77,10 +77,10 @@ Review our [brand identity guide](https://github.com/encosoft-kr/origin/wiki/Bra
 
 ### About This Organization
 
+🕰️ Our [timeline](https://github.com/encosoft-kr/origin/wiki/Timeline.md) outlines how EncoSoft has grown from the ground up, step by step.
+
 See our full company profile for background, brand evolution, and timeline milestones.
-
 Our internal standards, policies, and documentation philosophy are maintained in our [origin repository](https://github.com/encosoft-kr/origin/) — serving as the canonical reference for how we work, write, and think.
-
 This repository defines the operating DNA behind EncoSoft.
 
 ---
