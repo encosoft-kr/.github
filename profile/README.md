@@ -76,6 +76,8 @@ Our internal standards, policies, and documentation philosophy are maintained in
 
 This repository defines the operating DNA behind EncoSoft.
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=encosoft-kr&style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/encosoft-kr/.github)
+
 ---
 
-_* Last updated: 2025-05-21_
+_* Last updated: 2025-05-27_
