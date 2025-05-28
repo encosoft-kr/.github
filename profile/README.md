@@ -1,6 +1,6 @@
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20iOS-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-MIT%20%7C%20GPL3-yellow)
 ![Last commit](https://img.shields.io/github/last-commit/encosoft-kr/.github)
 
 # About EncoSoft
