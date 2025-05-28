@@ -1,9 +1,7 @@
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20iOS-blue)
-![License](https://img.shields.io/badge/License-MIT-green) 
-![Last commit](https://img.shields.io/github/last-commit/encosoft-kr/.github) 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=encosoft-kr&style=flat-square)
-
+![License](https://img.shields.io/badge/License-MIT-green)
+![Last commit](https://img.shields.io/github/last-commit/encosoft-kr/.github)
 
 # About EncoSoft
 
@@ -82,6 +80,8 @@ Our internal standards, policies, and documentation philosophy are maintained in
 This repository defines the operating DNA behind EncoSoft.
 
 🕰️ Our [timeline](https://github.com/encosoft-kr/origin/wiki/Timeline) outlines how EncoSoft has grown from the ground up, step by step.
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=encosoft-kr&style=flat-square)
 
 ---
 
