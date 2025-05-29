@@ -1,5 +1,5 @@
 
-<img src=https://github.com/encosoft-kr/origin/blob/main/assets/logo-encosoft-600x180-github.png>
+<img src="https://github.com/encosoft-kr/origin/blob/main/assets/logo-encosoft-vertical-1000x300-github.png">
 
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20iOS%20%7C%20Android-blue)
