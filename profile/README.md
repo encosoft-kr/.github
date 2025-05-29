@@ -1,3 +1,6 @@
+
+<img src=https://github.com/encosoft-kr/origin/blob/main/assets/logo-encosoft-vertical-1000x400.png width=1000 height=400>
+
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20iOS%20%7C%20Android-blue)
 ![License](https://img.shields.io/badge/License-MIT%20%7C%20GPL3-yellow)
@@ -85,4 +88,4 @@ This repository defines the operating DNA behind EncoSoft.
 
 ---
 
-_* Last updated: 2025-05-27_
+_* Last updated: 2025-05-29_
