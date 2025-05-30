@@ -19,11 +19,14 @@ We deliver with clarity.
 
 ### What We Do
 
-* Embedded systems and control logic development
-* Cross-platform utility and tool design
-* Precision-focused GUI solutions
-* Intelligent automation and productivity platforms
-* Conceptual engineering and software integration
+* Multi-platform application development across Windows, macOS, iOS, and Android
+* Embedded system development and industrial control programming
+* GUI design with precision and usability (WinForms, WPF, mobile)
+* Automation solutions integrating machine vision and robotics
+* AI-enhanced system features for intelligent perception and control
+* CI/CD pipeline automation and DevOps-based deployment workflows
+* Backend infrastructure including relational, time-series, and NoSQL databases
+* Modular software architectures designed for scalability and clarity
 
 Our internal [framework guide(TBD)]() outlines how we structure development, from modular principles to platform orchestration.
 
@@ -42,10 +45,11 @@ More details on how we operate can be found in our [team handbook(TBD)]().
 
 ### Our Philosophy
 
-We believe the value of a product comes from its design intent.   
-The strength of a system lies not only in its performance, but in the philosophy behind it.
+We believe software should not merely function but resonate with purpose.   
+Behind each interface lies a deliberate structure. Behind each feature, a reason.   
+We see artificial intelligence not as a replacement, but as a collaborator — one that augments human intention with computational intuition.   
+To us, the future of technology is shaped not by speculation, but by disciplined thought and grounded execution.   
 
-That’s why we engineer thought — because only thoughtful design delivers meaningful intelligence.   
 This philosophy is further explored in our [slogan document](https://github.com/encosoft-kr/origin/wiki/Slogan-Document).
 
 ---
@@ -85,4 +89,4 @@ This repository defines the operating DNA behind EncoSoft.
 
 ---
 
-_* Last updated: 2025-05-29_
+_* Last updated: 2025-05-30_
