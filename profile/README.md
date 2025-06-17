@@ -1,3 +1,5 @@
+<img src="https://github.com/encosoft-kr/origin/blob/main/assets/logo-encosoft-600x180-github.png"><br>
+
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20iOS%20%7C%20Android-blue)
 ![License](https://img.shields.io/badge/License-MIT%20%7C%20GPL3-yellow)
@@ -19,15 +21,22 @@ We deliver with clarity.
 
 ### What We Do
 
-* Multi-platform application development across Windows, macOS, iOS, and Android   
-  — Precision-engineered for seamless user experience and robust performance across diverse environments.
-* Embedded system development and industrial control programming
-* GUI design with precision and usability (WinForms, WPF, mobile)
-* Automation solutions integrating machine vision and robotics
-* AI-enhanced system features for intelligent perception and control
-* CI/CD pipeline automation and DevOps-based deployment workflows
-* Backend infrastructure including relational, time-series, and NoSQL databases
-* Modular software architectures designed for scalability and clarity
+* **Multi-platform application development across Windows, macOS, iOS, and Android**
+  * *Precision-engineered for seamless user experience and robust performance across diverse environments.*
+* **Embedded system development and industrial control programming**
+  * *Integrating software intelligence with real-world physical systems for robust automation.*
+* **GUI design with precision and usability (WinForms, WPF, mobile)**
+  * *Crafting intuitive and efficient user interfaces that embody our minimalist philosophy.*
+* **Automation solutions integrating machine vision and robotics**
+  * *Leveraging advanced perception and control for optimal operational efficiency.*
+* **AI-enhanced system features for intelligent perception and control**
+  * *Augmenting human intention with computational intuition for superior outcomes.*
+* **CI/CD pipeline automation and DevOps-based deployment workflows**
+  * *Streamlining development to deployment with robust, automated practices.*
+* **Backend infrastructure including relational, time-series, and NoSQL databases**
+  * *Designing scalable and secure data foundations for complex applications.*
+* **Modular software architectures designed for scalability and clarity**
+  * *Building adaptable systems that prioritize maintainability and future growth.*
 
 Our internal [framework guide(TBD)]() outlines how we structure development, from modular principles to platform orchestration.
 
@@ -35,13 +44,11 @@ Our internal [framework guide(TBD)]() outlines how we structure development, fro
 
 ### What We Stand For
 
-* **Structured Thinking**: Every solution begins with a precise understanding of the problem.
-* **Minimalism with Meaning**: Functionality without clutter. Design that serves clarity.
-* **Sovereignty of Execution**: We value independence, transparency, and uncompromised technical ownership.
-* **Quiet Engineering**: No noise. Just real work, silently building systems that work.
+* **Structured Thinking**: Every solution begins with a precise understanding of the problem, leading to methodical and robust designs.
+* **Minimalism with Meaning**: Functionality without clutter; Design that serves clarity and intentionality.
+* **Sovereignty of Execution**: We value independence, transparency, and uncompromised technical ownership in every project.
+* **Quiet Engineering**: No noise, just real work — silently building systems that deliver profound impact through meticulous execution.
 
-Our focus is on delivering profound impact through meticulous, behind-the-scenes execution.   
-   
 More details on how we operate can be found in our [team handbook(TBD)]().
 
 ---
@@ -84,6 +91,7 @@ Review our [brand identity guide](https://github.com/encosoft-kr/origin/wiki/Bra
 
 See our full company profile for background, brand evolution, and timeline milestones.   
 Our internal standards, policies, and documentation philosophy are maintained in our [origin repository](https://github.com/encosoft-kr/origin/) — serving as the canonical reference for how we work, write, and think.   
+
 This repository defines the operating DNA behind EncoSoft.
 
 🕰️ Our [timeline](https://github.com/encosoft-kr/origin/wiki/Timeline) outlines how EncoSoft has grown from the ground up, step by step.
