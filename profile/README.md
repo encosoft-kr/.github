@@ -19,7 +19,8 @@ We deliver with clarity.
 
 ### What We Do
 
-* Multi-platform application development across Windows, macOS, iOS, and Android
+* Multi-platform application development across Windows, macOS, iOS, and Android   
+  — Precision-engineered for seamless user experience and robust performance across diverse environments.
 * Embedded system development and industrial control programming
 * GUI design with precision and usability (WinForms, WPF, mobile)
 * Automation solutions integrating machine vision and robotics
@@ -39,6 +40,8 @@ Our internal [framework guide(TBD)]() outlines how we structure development, fro
 * **Sovereignty of Execution**: We value independence, transparency, and uncompromised technical ownership.
 * **Quiet Engineering**: No noise. Just real work, silently building systems that work.
 
+Our focus is on delivering profound impact through meticulous, behind-the-scenes execution.   
+   
 More details on how we operate can be found in our [team handbook(TBD)]().
 
 ---
@@ -89,4 +92,4 @@ This repository defines the operating DNA behind EncoSoft.
 
 ---
 
-_* Last updated: 2025-05-30_
+_* Last updated: 2025-06-17_
