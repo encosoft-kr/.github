@@ -7,28 +7,37 @@
 
 # About EncoSoft
 
-EncoSoft is not just a software company — it's a platform where structured thinking becomes technology, and ideas transform into tangible intelligence.
+EncoSoft is not just a software company — it's a platform where structured thinking becomes
+technology, and ideas transform into tangible intelligence.
 
 Founded and operated in the **Republic of Korea**, EncoSoft is driven by a single principle:
 
-> *"We don’t just develop software — We engineer thought and deliver intelligence."*
+> *"We don't just develop software — We engineer thought and architect intelligence."*
 
-We design with purpose.   
-We build with precision.   
-We deliver with clarity.
+We design with purpose.
+We build with precision.
+We execute with clarity.
 
 ---
 
 ### What We Do
 
 * **Multi-platform application development across Windows, macOS, iOS, and Android**
-  * *Precision-engineered for seamless user experience and robust performance across diverse environments.*
+  * *Precision-engineered for seamless user experience and robust performance across
+    diverse environments.*
+* **Wearable software development for smartwatch and embedded display platforms**
+  * *Designing focused, resource-constrained applications — including watchfaces and
+    companion tools — where minimalism is not a choice but a requirement.*
 * **Embedded system development and industrial control programming**
   * *Integrating software intelligence with real-world physical systems for robust automation.*
 * **GUI design with precision and usability (WinForms, WPF, mobile)**
   * *Crafting intuitive and efficient user interfaces that embody our minimalist philosophy.*
 * **Automation solutions integrating machine vision and robotics**
   * *Leveraging advanced perception and control for optimal operational efficiency.*
+* **System integration consulting and architecture advisory**
+  * *Providing structured technical guidance — from architecture review and source code
+    analysis to implementation support — for organizations navigating complex system
+    challenges.*
 * **AI-enhanced system features for intelligent perception and control**
   * *Augmenting human intention with computational intuition for superior outcomes.*
 * **CI/CD pipeline automation and DevOps-based deployment workflows**
@@ -38,7 +47,8 @@ We deliver with clarity.
 * **Modular software architectures designed for scalability and clarity**
   * *Building adaptable systems that prioritize maintainability and future growth.*
 
-Our internal [framework guide(TBD)]() outlines how we structure development, from modular principles to platform orchestration.
+Our internal [framework guide(TBD)]() outlines how we structure development, from modular
+principles to platform orchestration.
 
 ---
 
@@ -47,7 +57,7 @@ Our internal [framework guide(TBD)]() outlines how we structure development, fro
 * **Structured Thinking**: Every solution begins with a precise understanding of the problem, leading to methodical and robust designs.
 * **Minimalism with Meaning**: Functionality without clutter; Design that serves clarity and intentionality.
 * **Sovereignty of Execution**: We value independence, transparency, and uncompromised technical ownership in every project.
-* **Quiet Engineering**: No noise, just real work — silently building systems that deliver profound impact through meticulous execution.
+* **Quiet Engineering**: No noise, just real work — silently building systems that create profound impact through meticulous execution.
 
 More details on how we operate can be found in our [team handbook(TBD)]().
 
@@ -55,22 +65,18 @@ More details on how we operate can be found in our [team handbook(TBD)]().
 
 ### Our Philosophy
 
-We believe software should not merely function but resonate with purpose.   
-Behind each interface lies a deliberate structure. Behind each feature, a reason.   
-We see artificial intelligence not as a replacement, but as a collaborator — one that augments human intention with computational intuition.   
-To us, the future of technology is shaped not by speculation, but by disciplined thought and grounded execution.   
+We believe software should not merely function but resonate with purpose.
+Behind each interface lies a deliberate structure. Behind each feature, a reason.
+
+We see artificial intelligence not as a replacement, but as a working collaborator — one that
+actively participates in the design process, assists in architectural decisions, and contributes
+to code generation alongside human judgment. AI does not drive the work; it sharpens it.
+The engineer defines the intent. The system delivers it.
+
+To us, the future of technology is shaped not by speculation, but by disciplined thought and
+grounded execution.
 
 This philosophy is further explored in our [slogan document](https://github.com/encosoft-kr/origin/wiki/Slogan-Document).
-
----
-
-### Contact
-
-📩 [contact@encosoft.co.kr](mailto:contact@encosoft.co.kr)   
-🌐 [https://www.encosoft.co.kr](https://www.encosoft.co.kr)   
-📍 Republic of Korea
-
-Additional contact structure and email purpose are detailed in our [email policy](https://github.com/encosoft-kr/origin/wiki/Email-Policy).
 
 ---
 
@@ -80,24 +86,43 @@ Our brand is more than a name — it's a visual and linguistic system:
 
 * Name: **EncoSoft** (CamelCase only)
 * Meaning: **Engineering + Control/Consistency + Software**
-* Colors: Engineering Blue, Signal Orange
+* Slogan: **Engineer thought. Architect intelligence.**
+  * *Here, "intelligence" refers not to artificial intelligence, but to the structured
+    clarity and purposeful precision that disciplined engineering produces.** Colors: Engineering Blue, Signal Orange
 * Typography: Clear sans-serif
 
-Review our [brand identity guide](https://github.com/encosoft-kr/origin/wiki/Brand-Identity-Guide) for design and usage standards.
+Review our [brand identity guide](https://github.com/encosoft-kr/origin/wiki/Brand-Identity-Guide)
+for design and usage standards.
+
+---
+
+### Contact
+
+> 📩 [contact@encosoft.co.kr](mailto:contact@encosoft.co.kr)
+> 
+> 🌐 [https://www.encosoft.co.kr](https://www.encosoft.co.kr)
+> 
+> 📍 Republic of Korea
+
+Additional contact structure and email purpose are detailed in our
+[email policy](https://github.com/encosoft-kr/origin/wiki/Email-Policy).
 
 ---
 
 ### About This Organization
 
-See our full company profile for background, brand evolution, and timeline milestones.   
-Our internal standards, policies, and documentation philosophy are maintained in our [origin repository](https://github.com/encosoft-kr/origin/) — serving as the canonical reference for how we work, write, and think.   
+See our full company profile for background, brand evolution, and timeline milestones.
+Our internal standards, policies, and documentation philosophy are maintained in our
+[origin repository](https://github.com/encosoft-kr/origin/) — serving as the canonical
+reference for how we work, write, and think.
 
 This repository defines the operating DNA behind EncoSoft.
 
-🕰️ Our [timeline](https://github.com/encosoft-kr/origin/wiki/Timeline) outlines how EncoSoft has grown from the ground up, step by step.
+🕰️ Our [timeline](https://github.com/encosoft-kr/origin/wiki/Timeline) outlines how EncoSoft
+has grown from the ground up, step by step.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=encosoft-kr&style=flat-square)
 
 ---
 
-_* Last updated: 2025-06-17_
+_* Last updated: 2026-03-24_
